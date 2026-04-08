@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Ana Paula</h1>
   <p>Futura Desenvolvedora 🎓</p>
-  <p>Software Engineer | C++ • Python • Eletrônica • CyberSecurity</p>
+  <p>Science Computation | C++ • Python • Eletrônica • CyberSecurity</p>
 </div>
 
 ---
