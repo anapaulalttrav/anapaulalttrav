@@ -1,34 +1,42 @@
 <div align="center">
   <h1>Ana Paula</h1>
   <p>Futura Desenvolvedora 🎓</p>
-  <p>Desenvolvendo soluções e explorando o mundo da tecnologia.</p>
+  <p>Software Engineer | C++ • Python • Eletrônica • CyberSecurity</p>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" /> Stack Principal
+### 🔗 Stack Principal
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,js,git,github,linux,arduino" />
 </div>
 
 <br>
 
-> *Nota:* Atualmente focada em algoritmos com C , automação com Python, Eletrônica e CyberSecurity. 🚀
+> *Nota:* Atualmente focada em algoritmos com C, automação com Python, Eletrônica e CyberSecurity. 🚀
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" /> Contato
+### 🔗 Contato
 
 <div align="center">
-  <a href="mailto:anapaulaltrav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/anapaulalopestravassos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anapaulalopestravassos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" /> Atividade
+### 🔗 Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/anapaulalttrav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anapaulalttrav&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulalttrav&layout=compact&langs_count=7&theme=dracula" />
 </div>
