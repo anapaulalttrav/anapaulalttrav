@@ -14,7 +14,7 @@
 
 <br>
 
-> *Nota:* Atualmente focada em algoritmos com C e automação com Python. 🚀
+> *Nota:* Atualmente focada em algoritmos com C , automação com Python, Eletrônica e CyberSecurity. 🚀
 
 ---
 
