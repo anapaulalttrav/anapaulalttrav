@@ -9,19 +9,19 @@
 ### 🔗 Stack Principal
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,js,git,github,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,html,css,js,git,github,linux,arduino,java" />
 </div>
 
 <br>
 
-> *Nota:* Atualmente focada em algoritmos com C, automação com Python, Eletrônica e CyberSecurity. 🚀
+> *Nota:* Atualmente focada em algoritmos, Dados e CyberSecurity. 🚀
 
 ---
 
 ### 🔗 Contato
 
 <div align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:anapaulacontatotrabalho@gmai.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/anapaulalopestravassos/">
