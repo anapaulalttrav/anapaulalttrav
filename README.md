@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/anapaulalopestravassos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SEU-GITHUB" target="_blank">
+  <a href="https://github.com/anapaulalttrav" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:SEU-EMAIL@email.com">
+  <a href="mailto:anapaulacontatotrabalho@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-10B981?style=for-the-badge" alt="Status"/>
