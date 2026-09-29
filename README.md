@@ -2,7 +2,7 @@
 <h1 align="center">Ana Paula Lopes Travassos</h1>
 
 <p align="center">
-  <strong>Estudante de Ciência da Computação | Dados · Backend · Cibersegurança</strong><br>
+  <strong>Software Engineering Intern | Dados · Backend · Cibersegurança</strong><br>
   <em>Mentalidade orientada a resultados · Liderança acadêmica comprovada</em>
 </p>
 
